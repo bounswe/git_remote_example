@@ -1,5 +1,7 @@
 This is an experiment.
 
-This is an addition.
-
 Parsing text...
+
+This is an important addition.
+
+Fixed a bug.
