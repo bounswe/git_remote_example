@@ -1,5 +1,3 @@
 This is an experiment.
 
 This is an addition.
-
-another addition with a bug fix.
