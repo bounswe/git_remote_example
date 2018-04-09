@@ -1,3 +1,5 @@
 Something done more beautifully
 Something else
 I am the master
+
+Implemented an awesome twitter api call.
