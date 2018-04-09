@@ -6,4 +6,4 @@ This is an important addition.
 
 Fixed a bug.
 
-Implemented new feature.
+Implemented a new feature.
