@@ -1,6 +1,5 @@
-Something done more beautifully
+Something done more elegantly
 Something else
-I am the master
-No, I am the master, obey your master!
-No, you both are not masters, kneel down to your actual master!
+I am the the true master
 
+Implemented an awesome twitter api call.
